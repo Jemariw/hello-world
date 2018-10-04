@@ -1,2 +1,2 @@
 # hello-world
-Step by step an egg start to walk on foot
+Step by step an egg starts to walk on foot
